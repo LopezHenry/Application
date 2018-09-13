@@ -6,7 +6,6 @@ CodePath
 `TODO://` Add app description
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="https://imgur.com/c0cb9ab9-5d0b-4a83-aa4f-0bb4a307a424" width=200><br>
 
