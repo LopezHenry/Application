@@ -1,9 +1,7 @@
-# Application
-CodePath
-## NAME_OF_YOUR_APP_HERE
+## CodePath
 
 ### App Description
-`TODO://` Add app description
+Followed YouTube guide to complete pre-work.
 
 ### App Walk-though
 
