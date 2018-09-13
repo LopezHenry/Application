@@ -5,10 +5,10 @@ Followed YouTube guide to complete pre-work.
 
 ### App Walk-though
 
-<img src="//imgur.com/Vy9AhEU" width=200><br>
+<img src="https://imgur.com/Vy9AhEU" width=200><br>
+
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/Vy9AhEU"><a href="//imgur.com/Vy9AhEU"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
 - [ ] 1. User sees custom text in a label - Hello from {name}!
