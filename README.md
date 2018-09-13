@@ -5,7 +5,7 @@ Followed YouTube guide to complete pre-work.
 
 ### App Walk-though
 
-<img src="https://imgur.com/SCB0A93" width=200><br>
+<img src="https://i.imgur.com/SCB0A93.gif" width=200><br>
 
 
 
