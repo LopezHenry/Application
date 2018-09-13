@@ -7,7 +7,7 @@ CodePath
 
 ### App Walk-though
 
-<img src=https://imgur.com/c0cb9ab9-5d0b-4a83-aa4f-0bb4a307a42 width=200><br>
+<img src=blob:https://imgur.com/c0cb9ab9-5d0b-4a83-aa4f-0bb4a307a42 width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
